@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Darshil027
+- 👋 Hi, I’m @Darshil
 - 👀 I’m interested in software and web
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on building a website
