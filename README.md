@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Darshil
-- 👀 I’m interested in software and web
+- 👀 I’m interested in software and web dev
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on building a website
 - 📫 How to reach me darshiljogani@gmail.com
